@@ -9,6 +9,7 @@ It deliberately separates demonstrated behavior from local, simulated, proof-sta
 ## Start here
 
 - [AI Evidence Gap Review](AI_EVIDENCE_GAP_REVIEW.md)
+- [RIAP four-case proof: Who authorized the action?](RIAP_FOUR_CASE_PROOF.md)
 - [RIAP — Reality Integrity Action Protocol](RIAP_OVERVIEW.md)
 - [ACP-1 — Proof of Control](ACP1_PROOF_SUMMARY.md)
 - [SCP-1 — Sovereign Compute Proof](SCP1_PROOF_SUMMARY.md)
